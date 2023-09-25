@@ -1,5 +1,8 @@
 # Bulldozer-price-ML-project
 
+**PLEASE UNZIP THE FILES IN DATA IF YOU WANT TO RUN THE NOTEBOOK**
+
+
 # 🚜 Predicting the Sale Price of Bulldozers using Machine Learning
 
 In this notebook we are going to go through an example machine learning project with the goal of predicting the sale price of bulldozers.
